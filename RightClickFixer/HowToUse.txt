@@ -1,0 +1,3 @@
+** Run bat file as administrator.
+
+** Dosyayı yönetici olarak çalıştırın.
